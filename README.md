@@ -6,7 +6,7 @@
 
 
 
-*--> **A repository of all open source scripts written in Python By Hossam Hamdy <M3T4N0Y3T/>**
+*--> **A repository of all open source scripts written in Python **
 
 
 
