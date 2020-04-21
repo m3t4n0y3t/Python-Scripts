@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import os
 import time
 import sys
@@ -183,7 +185,7 @@ def creat_startup(source):
 			print("Mail Author @    [ m3t4n0y3t@gmail.com ]")
 	else:
 		print("Startup Folder Doesn't Exist !")
-		print("Try To Search Online About How To Access The Startup Folder\nAnd Then Change it's Value In Line 47")##################
+		print("Try To Search Online About How To Access The Startup Folder\nAnd Then Change it's Value In Line 169")
 
 intro = """
         Sadaqah Script : Is A Free Open Source Script.
@@ -223,6 +225,7 @@ if command == 'y':
 
 else:
 	print("\nThe Script Will Close After 3 Seconds")
+	time.sleep(1)
 	print("\nRemember To Ask Allah For Bleesing Youssef'S Saber Soul.")
 	time.sleep(3)
 
