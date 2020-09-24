@@ -1,7 +1,3 @@
-
-#  New_Year_2021.py
-#  all my achievements in 2021
-
 import os 
 import time
 
