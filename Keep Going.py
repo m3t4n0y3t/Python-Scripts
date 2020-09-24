@@ -170,3 +170,6 @@ def add_new():
 
 while True:
   add_new()
+
+
+os.system("pause")
